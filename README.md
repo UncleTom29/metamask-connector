@@ -1,6 +1,6 @@
 # metamask-connector
 
-Check Live Demo here:https://metamask-connector.herokuapp.com/ 
+Check Live Demo here:https://metamask-connector.herokuapp.com/ (copy the link and open in a different tab) 
 
 
 # Author
